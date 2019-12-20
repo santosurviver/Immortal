@@ -3,11 +3,11 @@ CLICK BELOW IMAGE.
 
 WARNING:🗣️ TRY ON YOUR OWN RISK
 
-🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪🟠🟠🟠🟠🟠🟠
+🟢🟢🟢🟢⚪⚪⚪⚪⚪🟠🟠🟠🟠
 
 DEPLOY :🗣️ CLICK THE PICTURE BELOW
 
-💚💚💚💚💚🤍🤍🤍🤍🤍🤍🤍🧡🧡🧡🧡🧡🧡
+💚💚💚💚🤍🤍🤍🤍🤍🧡🧡🧡🧡
 
 [![Deploy](https://telegra.ph/file/fc1682d169a6515d23072.jpg)](https://heroku.com/deploy)
 
