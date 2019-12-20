@@ -1,18 +1,18 @@
 {
-  "name": "PornHub",
-  "description": "Only For Legends..... By : @r4v4n4",
-  "logo": "https://telegra.ph/file/18cea3a9a7d9b3261dc1a.jpg",
+  "name": "immortal",
+  "description": "Here begins our new era by @imperialxx",
+  "logo": "https://telegra.ph/file/d2e835d3c6dee11177a62.jpg",
   "keywords": [
-    "sex",
-    "porn",
-    "xxx",
-    "dick",
-    "vagina",
-    "boobs"
+    "Tech",
+    "Malayalam",
+    "Version",
+    "Enjoy",
+    "Uniborg",
+    "Clone"
   ],
   "repository": "https://gitlab.com/SpEcHiDe/UniBorg",
   "website": "https://telegram.dog/UniBorg",
-  "success_url": "https://telegram.dog/r4v4n4",
+  "success_url": "https://telegram.dog/uniborg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable environment variables.",
