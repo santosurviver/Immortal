@@ -128,7 +128,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes Your Account Stable.",
-      "value": "138312364",
+      "value": "551290198",
       "required": false
     },
     "TZ": {
@@ -212,9 +212,9 @@
       "value": "-100",
       "required": false
     },
-    "RAVANA_LEELA": {
+    "P.PIC": {
       "description": "TO ADD TIME ON YOUR PROFILE PIC, ADD LINK OF IMAGE ENDING WITH .JPG",
-      "value": "https://telegra.ph/file/674ef67d845b4304823d3.jpg",
+      "value": "https://telegra.ph/file/d2e835d3c6dee11177a62.jpg",
       "required": false
     },
     "TELE_GRAM_2FA_CODE": {
